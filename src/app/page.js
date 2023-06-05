@@ -12,10 +12,10 @@ export default function Home() {
           <div class="container px-5 pt-32 mx-auto">
             <div class="xl:w-1/2 lg:w-3/4 w-full mx-auto ">
               <p>
-                Hello! I'm a recent Computer Engineering graduate from Akdeniz
-                University, Turkey. Passionate about Computer Science,
-                Distributed Systems, and Machine Learning, I've dedicated my
-                academic journey to exploring these areas, from understanding
+                Hello! I&apos;m a recent Computer Engineering graduate from
+                Akdeniz University, Turkey. Passionate about Computer Science,
+                Distributed Systems, and Machine Learning, I&apos;ve dedicated
+                my academic journey to exploring these areas, from understanding
                 theoretical principles to practical applications.
               </p>
               <br />
