@@ -1,6 +1,6 @@
 import Image from "next/image";
-import HeaderComponent from "../../../../public/components/header";
-import FooterComponent from "../../../../public/components/footer";
+import HeaderComponent from "../../../components/header";
+import FooterComponent from "../../../components/footer";
 
 export default function Home() {
   return (
