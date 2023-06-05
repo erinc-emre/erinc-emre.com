@@ -1,6 +1,6 @@
 import Image from "next/image";
-import HeaderComponent from "../reuse/header";
-import FooterComponent from "../reuse/footer";
+import HeaderComponent from "../../../public/components/header";
+import FooterComponent from "../../../public/components/footer";
 import Bird from "../../../public/bird.svg";
 import Robot from "../../../public/robot.svg";
 

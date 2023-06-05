@@ -1,5 +1,5 @@
-import Name from "../name.png";
-import Logo from "../logo.png";
+import Name from "../../public/name.png";
+import Logo from "../../public/logo.png";
 import Image from "next/image";
 import Link from "next/link";
 
@@ -23,7 +23,11 @@ function HeaderComponent() {
           <Link href="" class="mr-5 hover:text-orange-700">
             Contact
           </Link>
-          <Link href="https://drive.google.com/file/d/18LWKrn9I5gne-RzbrInQVFXzdc1efuoU/view?usp=share_link" target="_blank" class="mr-5 hover:text-orange-700">
+          <Link
+            href="https://drive.google.com/file/d/18LWKrn9I5gne-RzbrInQVFXzdc1efuoU/view?usp=share_link"
+            target="_blank"
+            class="mr-5 hover:text-orange-700"
+          >
             Resume
           </Link>
           <Link href="/projects" class="mr-5 hover:text-orange-700">
