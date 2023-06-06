@@ -20,8 +20,11 @@ function HeaderComponent() {
           <Image src={Name} class="ml-3 text-xl" />
         </Link>
         <nav class="lg:w-2/5 inline-flex lg:justify-end ml-5 lg:ml-0">
-          <Link href="" class="mr-5 hover:text-orange-700">
+          <Link href="contact" class="mr-5 hover:text-orange-700">
             Contact
+          </Link>
+          <Link href="/projects" class="mr-5 hover:text-orange-700">
+            Projects
           </Link>
           <Link
             href="https://drive.google.com/file/d/18LWKrn9I5gne-RzbrInQVFXzdc1efuoU/view?usp=share_link"
@@ -29,9 +32,6 @@ function HeaderComponent() {
             class="mr-5 hover:text-orange-700"
           >
             Resume
-          </Link>
-          <Link href="/projects" class="mr-5 hover:text-orange-700">
-            Projects
           </Link>
         </nav>
       </div>
