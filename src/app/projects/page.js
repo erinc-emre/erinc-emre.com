@@ -30,7 +30,7 @@ export default function Home() {
                   systems.
                 </li>
                 <li>
-                  • The Object Detection model is set up to work on the local or
+                  • The Object Detection model is set up to work on a local or
                   remote systems.
                 </li>
                 <li>
@@ -38,23 +38,6 @@ export default function Home() {
                   communicating through RabbitMQ.
                 </li>
               </ul>
-              <a
-                href="https://github.com/erinc-emre/visiot"
-                class="mt-3 text-orange-700 inline-flex items-center"
-              >
-                Learn More
-                <svg
-                  fill="none"
-                  stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  class="w-4 h-4 ml-2"
-                  viewBox="0 0 24 24"
-                >
-                  <path d="M5 12h14M12 5l7 7-7 7"></path>
-                </svg>
-              </a>
             </div>
           </div>
 
@@ -68,37 +51,23 @@ export default function Home() {
             </div>
             <div class="flex-grow sm:text-left text-center mt-6 sm:mt-0">
               <h2 class="text-gray-300 text-lg title-font font-medium mb-2">
-                Remote Controlled, Wheeled Robots with Robotic Arm
+                Remote Robot Operation with AI Assistance
               </h2>
               <ul>
                 <li>
-                  • Utilized a web interface and Socket.io to enable live camera
-                  view and remote physical motor control of an IoT robot across
-                  different networks.
+                  • A web interface was developed to provide a live camera feed
+                  and remote control of physical motors for an IoT robot over
+                  the network.
                 </li>
                 <li>
-                  • The IoT device was comprised of a Raspberry Pi, which was
-                  integrated with a 3-axis robot that was specifically printed
-                  using a 3D printer, and designed with four wheels.
+                  • The IoT device consists of a Raspberry Pi 4 integrated with
+                  a custom 3-axis robot printed using a 3D printer.
+                </li>
+                <li>
+                  • Selected image processing models run in real-time to assist
+                  the operator with requested tasks.
                 </li>
               </ul>
-              <a
-                href="https://github.com/erinc-emre/robot-vision"
-                class="mt-3 text-orange-700 inline-flex items-center"
-              >
-                Learn More
-                <svg
-                  fill="none"
-                  stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  class="w-4 h-4 ml-2"
-                  viewBox="0 0 24 24"
-                >
-                  <path d="M5 12h14M12 5l7 7-7 7"></path>
-                </svg>
-              </a>
             </div>
           </div>
 
