@@ -5,7 +5,7 @@ import Link from "next/link";
 
 function HeaderComponent() {
   return (
-    <header class="text-gray-400 body-font">
+    <header class="text-gray-300 body-font">
       <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
         <div class="flex lg:w-2/5 flex-wrap items-center text-base md:ml-auto">
           <Link href="/">
