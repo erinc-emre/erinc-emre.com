@@ -16,7 +16,7 @@ export default function Home() {
                 of Stuttgart, specializing in Autonomous Systems. With a keen
                 interest in large-scale software systems and MLOps. Explore my
                 portfolio to learn more about my projects and professional
-                journey. Who knows, maybe we&apos;ll see each other soon...
+                journey. Who knows, maybe we&apos;ll meet soon...
               </p>
               <br />
               <div class="lm-8">
