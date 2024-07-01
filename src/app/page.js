@@ -12,23 +12,19 @@ export default function Home() {
           <div class="container px-5 pt-32 mx-auto">
             <div class="xl:w-1/2 lg:w-3/4 w-full mx-auto ">
               <p>
-                Hello! I&apos;m a recent Computer Engineering graduate from
-                Akdeniz University, Turkey. Passionate about Computer Science,
-                Distributed Systems, and Machine Learning, I&apos;ve dedicated
-                my academic journey to exploring these areas, from understanding
-                theoretical principles to practical applications.
-              </p>
-              <br />
-              <p>
-                I thrive on tackling challenges in distributed systems and
-                unearthing insights from data using machine learning. More than
-                just a technologist, I am a problem-solver at heart, committed
-                to using technology as a tool to make an impact. Some of the
-                highlights so far:
+                Welcome! I am an MSc Computer Science student at the University
+                of Stuttgart, specializing in Autonomous Systems. With a keen
+                interest in large-scale software systems and MLOps. Explore my
+                portfolio to learn more about my projects and professional
+                journey. Who knows, maybe we'll see each other soon...
               </p>
               <br />
               <div class="lm-8">
                 <ul>
+                  <li>
+                    • ML Engineering and Distributed Systems experience in the
+                    automotive industry.
+                  </li>
                   <li>
                     • Technical Lead at 2022 MetaTravel Metaverse-Blockchain
                     Team - 🏆 Best Design Winner
@@ -37,12 +33,6 @@ export default function Home() {
                   <li>
                     • Software Team Lead at 2022 Alioth CANSAT Team - 🏅
                     Successfully passed the PDR phase
-                  </li>
-
-                  <li>
-                    • After graduation, I worked on Machine Learning and
-                    Distributed Systems at Martur Fompak International for 6
-                    months.
                   </li>
                 </ul>
               </div>

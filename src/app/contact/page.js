@@ -13,14 +13,14 @@ export default function Home() {
             <div class="xl:w-1/2 lg:w-3/4 w-full mx-auto ">
               <p>The easiest way to reach me is by email:</p>
               <br />
-              <a href="mailto:erinc-emre@outlook.com" class="italic text-orange-700">
-                erinc-emre@outlook.com
+              <a href="mailto:contact@erinc-emre.com" class="italic text-orange-700">
+              contact@erinc-emre.com
               </a>
               <br />
               <br />
               <p>
                 {""}
-                You can also contact me on GitHub, LinkedIn and Twitter via the
+                You can also contact me on LinkedIn and GitHub via the
                 links at the bottom of this page.{" "}
               </p>
               <br />

@@ -27,7 +27,8 @@ function HeaderComponent() {
             Projects
           </Link>
           <Link
-            href="https://drive.google.com/file/d/18LWKrn9I5gne-RzbrInQVFXzdc1efuoU/view?usp=share_link"
+            href="/pdf/cv.pdf"
+            locale={false}
             target="_blank"
             class="mr-5 hover:text-orange-700"
           >
