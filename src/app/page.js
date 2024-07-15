@@ -5,9 +5,9 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <>
+    <div className="flex flex-col min-h-screen">
       <HeaderComponent />
-      <main className="">
+      <main className="flex-grow">
         <section class="text-gray-200 body-font">
           <div class="container px-5 pt-32 mx-auto">
             <div class="xl:w-1/2 lg:w-3/4 w-full mx-auto ">
@@ -63,6 +63,6 @@ export default function Home() {
         </section>
       </main>
       <FooterComponent />
-    </>
+    </div>
   );
 }
