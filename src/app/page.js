@@ -16,25 +16,10 @@ export default function Home() {
                 of Stuttgart, specializing in Autonomous Systems. With a keen
                 interest in large-scale software systems and MLOps. Explore my
                 portfolio to learn more about my projects and professional
-                journey. Who knows, maybe we&apos;ll meet soon...
+                journey.
               </p>
               <br />
               <div class="lm-8">
-                <ul>
-                  <li>
-                    • ML Engineering and Distributed Systems experience in the
-                    automotive industry.
-                  </li>
-                  <li>
-                    • Technical Lead at 2022 MetaTravel Metaverse-Blockchain
-                    Team - 🏆 Best Design Winner
-                  </li>
-
-                  <li>
-                    • Software Team Lead at 2022 Alioth CANSAT Team - 🏅
-                    Successfully passed the PDR phase
-                  </li>
-                </ul>
               </div>
             </div>
           </div>
